@@ -1,4 +1,4 @@
 learning git
 test test
-this line is added by master!
+issue 101 has been fixed
 new line add by dev
